@@ -413,6 +413,14 @@ background-image: url('../images/ico-bigg-fb.png');
 background-image: url('../images/ico-bigg-gplus.png');
 }
 
+.bigg-social-linkedin{
+background-image: url('../images/ico-bigg-linkedin.png');	
+}
+
+.bigg-social-scholar{
+background-image: url('../images/ico-bigg-scholar.png');	
+}
+
 .bigg-social-icon {
 width: 30px;
 height: 30px;
