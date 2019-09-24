@@ -421,6 +421,10 @@ background-image: url('../images/ico-bigg-linkedin.png');
 background-image: url('../images/ico-bigg-scholar.png');	
 }
 
+.bigg-social-github{
+background-image: url('../images/ico-bigg-github.png');	
+}
+
 .bigg-social-icon {
 width: 30px;
 height: 30px;
